@@ -3,7 +3,7 @@ Scripts to change oh-my-posh theme with single key or alias
 
 current status:
 - works well but you must manually add the lines to .profile you want to scroll through. like:
-'''
+´´´
 #CHANGE THEME HERE
 #eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/amro.omp.json)"
 #eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/atomicBit.omp.json)"
@@ -31,4 +31,5 @@ current status:
 #eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/powerlevel10k_classic.omp.json)"
 eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/powerlevel10k_rainbow.omp.json)"
 #eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/stelbent-compact.minimal.omp.json)"
-'''
+´´´
+
